@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/rohit-chess/Documents/rohit/C++/Week 1/W1 L4 : Sorting & Searching",
-      "program": "/home/rohit-chess/Documents/rohit/C++/Week 1/W1 L4 : Sorting & Searching/build/Debug/outDebug",
+      "cwd": "/home/rohit-chess/Documents/rohit/C++/Week 2/L7: Reference & Pointer",
+      "program": "/home/rohit-chess/Documents/rohit/C++/Week 2/L7: Reference & Pointer/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

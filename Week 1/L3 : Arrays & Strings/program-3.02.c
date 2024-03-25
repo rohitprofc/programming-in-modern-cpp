@@ -1,4 +1,4 @@
-// Fixed Size Array in C & Using Manifest Constant (macro)
+// Fixed Size Array in C & Using MACRO
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 100
